@@ -1,0 +1,14 @@
+vim script1.sh
+ls
+chmod 755 script.sh
+ls
+./script1.sh buys.txt
+ls
+
+
+
+vim 
+#!/bin/bash
+mydate=$(date +'%y'-'%m'-'%d')
+cp $1 "mydate-$1"
+echo "$mudate-$1"
