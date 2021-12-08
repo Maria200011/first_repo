@@ -1,0 +1,4 @@
+shutdown -h 14:01
+shutdown 14:01
+shutdown -h +1
+shutdown -h+1
